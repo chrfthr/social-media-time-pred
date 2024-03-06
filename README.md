@@ -12,7 +12,7 @@ The notebook expects the csv file to be in the same folder as all the other file
 
 # Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements. The Python version used in this project was 3.10.
 
 ```bash
 pip install -r requirements.txt
